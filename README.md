@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/rakeshgangwar-f1-mcp-server-badge.png)](https://mseep.ai/app/rakeshgangwar-f1-mcp-server)
+
 # Formula One MCP Server
 
 This Model Context Protocol (MCP) server provides access to Formula One data and statistics using the FastF1 Python library. It allows you to access race calendars, event information, session results, driver data, lap times, telemetry, and championship standings through a clean MCP interface.
